@@ -25,11 +25,12 @@
 <p align="center">
   <a href="https://tryhackme.com/p/donthackme.com" target="_blank">
     <img
-      src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5259909"
-      alt="TryHackMe Profile Badge – donthackme.com"
+      src="https://tryhackme-badges.s3.amazonaws.com/donthackme.com.png"
+      alt="TryHackMe Badge"
     />
   </a>
 </p>
+
 
 ---
 

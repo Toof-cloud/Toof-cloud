@@ -73,15 +73,6 @@
 
 ---
 
-### 📊 GitHub Streak
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=toof-cloud&theme=dark&hide_border=true"
-    alt="GitHub streak"
-  />
-</p>
-
----
 
 <p align="center">
   <i>"Learn. Break. Fix. Repeat."</i>

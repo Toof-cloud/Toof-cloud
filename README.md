@@ -28,10 +28,7 @@
 <!-- TRYHACKME BADGE -->
 <p align="center">
   <a href="https://tryhackme.com/p/donthackme.com" target="_blank">
-    <img
-      src="https://tryhackme-badges.s3.amazonaws.com/donthackme.com.png?v=1"
-      alt="TryHackMe Badge"
-    />
+    <script src="https://tryhackme.com/badge/t/9928c4016dbc8743cb954264966210bdc7bf8d2bf8c9c1a3777e25047e0157566cce651fd0f90242b4cf0599ee49bba4?theme=dark"></script>
   </a>
 </p>
 
